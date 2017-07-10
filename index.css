@@ -16,6 +16,7 @@ header {
 
 header img {
 	width: 100%;
+	padding: 48px 0;
 }
 
 audio {
@@ -23,8 +24,32 @@ audio {
 	display: block;
 }
 
+.row {
+	margin-bottom: 48px;
+}
+
 .scene {
 	margin-bottom: 6px;
-	padding-bottom: 6px;
+	padding: 8px 0;
 	border-bottom: 1px dotted #ccc;
+}
+
+footer {
+	text-align: center;
+	width: 100%;
+	margin: 48px 0;
+}
+
+ol.scene-list {
+	padding-left: 0;
+}
+
+ol.scene-list li {
+	padding-left: 0;
+	display: list-item;
+}
+
+.images img {
+	width: 100%;
+	border-radius: 3px;
 }
