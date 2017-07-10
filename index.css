@@ -1,0 +1,30 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+html, body {
+}
+
+p {
+	line-height: 1.4;
+	font-size: 18px;
+}
+
+header {
+	text-align: center;
+}
+
+header img {
+	width: 100%;
+}
+
+audio {
+	width: 100%;
+	display: block;
+}
+
+.scene {
+	margin-bottom: 6px;
+	padding-bottom: 6px;
+	border-bottom: 1px dotted #ccc;
+}
